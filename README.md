@@ -18,3 +18,6 @@ The *target* and *location* arguments are shorthand aliases defined in the confi
  <dt>verbatim</dt><dd>Flags <tt>--delete-after</tt>; Make the target a 100% carbon copy of the source, using difference in file size or timestamp as the criterium for transferring.</dd>
  </dl></dd>
 </dl>
+
+## License
+http://www.gnu.org/copyleft/gpl.html
